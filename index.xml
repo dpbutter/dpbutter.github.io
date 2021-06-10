@@ -12,7 +12,7 @@
       
       <guid>https://example.com/about/</guid>
       <description>About me  I am an American, a Yinzer, a Trekkie, a sci-fi aficionado, and a political junkie. I&amp;rsquo;ve lived in Cambridge, MA (undergrad), Berkeley, CA (grad school), Perth, Australia (postdoc 1), Amsterdam (postdoc 2), and College Station, Texas (postdoc 3).
-At some point I picked up a wife and a daughter, and they&amp;rsquo;re both pretty swell.
+At some point, I picked up a wife and a daughter, and they&amp;rsquo;re both pretty swell.
 Research interests I am a theoretical physicist interested in the interplay between mathematical physics, supersymmetry, and string theory.</description>
     </item>
     
@@ -37,8 +37,7 @@ Bryan, TX 77802
       
       <guid>https://example.com/publications/</guid>
       <description>Here is a list of my publications and preprints. They can also be found either on inspire-HEP or on the arXiv. Note that in high energy physics, it is conventional to place authors in alphabetical order.
-Publications  K. Becker and D. Butter, 4D $N=1$ Kaluza-Klein superspace, JHEP 09 (2020) 091. arXiv:2003.01790.
-  K. Becker, M. Becker, D. Butter, W. D. Linch and S. Randall. Five-dimensional Supergravity in N = 1/2 Superspace, JHEP 03 (2020) 098.</description>
+Publications K. Becker and D. Butter, 4D $N=1$ Kaluza-Klein superspace, JHEP 09 (2020) 091. arXiv:2003.01790. K. Becker, M. Becker, D. Butter, W. D. Linch and S. Randall. Five-dimensional Supergravity in N = 1/2 Superspace, JHEP 03 (2020) 098.</description>
     </item>
     
   </channel>
