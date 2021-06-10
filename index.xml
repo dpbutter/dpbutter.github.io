@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Daniel Butter</title>
+    <link>https://example.com/</link>
+    <description>Recent content in About on Daniel Butter</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>About me  I am an American, a Yinzer, a Trekkie, a sci-fi aficionado, and a political junkie. I&amp;rsquo;ve lived in Cambridge, MA (undergrad), Berkeley, CA (grad school), Perth, Australia (postdoc 1), Amsterdam (postdoc 2), and College Station, Texas (postdoc 3).
+At some point I picked up a wife and a daughter, and they&amp;rsquo;re both pretty swell.
+Research interests I am a theoretical physicist interested in the interplay between mathematical physics, supersymmetry, and string theory.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description> Personal Email: dbutter@gmail.com Work Email: dbutter@tamu.edu   Physical Coordinates  Mitchell Institute for Fundamental Physics &amp;amp; Astronomy, M509
+Texas A&amp;amp;M University
+College Station, TX 77843
+  Mailing Address  1525 E 29th Street, Apt 605
+Bryan, TX 77802
+  </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://example.com/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publications/</guid>
+      <description>Here is a list of my publications and preprints. They can also be found either on inspire-HEP or on the arXiv. Note that in high energy physics, it is conventional to place authors in alphabetical order.
+Publications  K. Becker and D. Butter, 4D $N=1$ Kaluza-Klein superspace, JHEP 09 (2020) 091. arXiv:2003.01790.
+  K. Becker, M. Becker, D. Butter, W. D. Linch and S. Randall. Five-dimensional Supergravity in N = 1/2 Superspace, JHEP 03 (2020) 098.</description>
+    </item>
+    
+  </channel>
+</rss>
