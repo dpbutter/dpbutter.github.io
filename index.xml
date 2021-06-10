@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Daniel Butter</title>
+    <title>Daniel Butter</title>
     <link>https://example.com/</link>
-    <description>Recent content in About on Daniel Butter</description>
+    <description>Recent content on Daniel Butter</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title>Daniel Butter</title>
       <link>https://example.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -17,7 +17,7 @@ Research interests I am a theoretical physicist interested in the interplay betw
     </item>
     
     <item>
-      <title>Contact</title>
+      <title>Daniel Butter: Contact</title>
       <link>https://example.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -31,7 +31,7 @@ Bryan, TX 77802
     </item>
     
     <item>
-      <title>Publications</title>
+      <title>Daniel Butter: Publications</title>
       <link>https://example.com/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
