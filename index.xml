@@ -2,15 +2,421 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel Butter</title>
-    <link>https://example.com/</link>
+    <link>https://dpbutter.github.io/</link>
     <description>Recent content on Daniel Butter</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 09 Jun 2021 12:01:30 -0500</lastBuildDate><atom:link href="https://dpbutter.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://dpbutter.github.io/posts/my-first-post/</link>
+      <pubDate>Wed, 09 Jun 2021 12:01:30 -0500</pubDate>
+      
+      <guid>https://dpbutter.github.io/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>$E_7(7)$ exceptional field theory in superspace</title>
+      <link>https://dpbutter.github.io/publication/butter-2019-a/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/butter-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N =4 conformal supergravity: the complete actions</title>
+      <link>https://dpbutter.github.io/publication/butter-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/butter-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curvature squared invariants in six-dimensional N = (1, 0) supergravity</title>
+      <link>https://dpbutter.github.io/publication/butter-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/butter-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N = 1 supercurrents of eleven-dimensional supergravity</title>
+      <link>https://dpbutter.github.io/publication/becker-2018-phr/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/becker-2018-phr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N = 2 dilaton Weyl multiplet in 4D supergravity</title>
+      <link>https://dpbutter.github.io/publication/butter-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/butter-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction of all N=4 conformal supergravities</title>
+      <link>https://dpbutter.github.io/publication/butter-2016-mtk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/butter-2016-mtk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eleven-Dimensional Supergravity in 4D, N = 1 Superspace</title>
+      <link>https://dpbutter.github.io/publication/becker-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/becker-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The component structure of conformal supergravity invariants in six dimensions</title>
+      <link>https://dpbutter.github.io/publication/butter-2017-jqu/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/butter-2017-jqu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On conformal supergravity and harmonic superspace</title>
+      <link>https://dpbutter.github.io/publication/butter-2015-nza/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/butter-2015-nza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invariants for minimal conformal supergravity in six dimensions</title>
+      <link>https://dpbutter.github.io/publication/butter-2016-qkx/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/butter-2016-qkx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New approach to curved projective superspace</title>
+      <link>https://dpbutter.github.io/publication/butter-csg-4-d-proj/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/butter-csg-4-d-proj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rigid 4D N=2 supersymmetric backgrounds and actions</title>
+      <link>https://dpbutter.github.io/publication/bil-rigid-4-d/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/bil-rigid-4-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projective multiplets and hyperkähler cones in conformal supergravity</title>
+      <link>https://dpbutter.github.io/publication/butter-hkp/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/butter-hkp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformal supergravity in five dimensions: new approach and applications</title>
+      <link>https://dpbutter.github.io/publication/butter-2014-xxa/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/butter-2014-xxa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Anomaly Structure of Regularized Supergravity</title>
+      <link>https://dpbutter.github.io/publication/bg-cancel/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/bg-cancel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New approach to N-extended conformal supergravity in three dimensions</title>
+      <link>https://dpbutter.github.io/publication/butter-2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/butter-2014-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-renormalization theorems and N=2 supersymmetric backgrounds</title>
+      <link>https://dpbutter.github.io/publication/bd-wl-nr/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/bd-wl-nr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Off-shell actions for conformal supergravity in three dimensions</title>
+      <link>https://dpbutter.github.io/publication/butter-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/butter-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The N = 2 Gauss-Bonnet from conformal supergravity</title>
+      <link>https://dpbutter.github.io/publication/butter-2014-b/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/butter-2014-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformal supergravity in three dimensions: off-shell actions</title>
+      <link>https://dpbutter.github.io/publication/butter-2013-rba/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/butter-2013-rba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformal supergravity in three dimensions: new off-shell formulation</title>
+      <link>https://dpbutter.github.io/publication/csg-3-d-1/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/csg-3-d-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New higher-derivative invariants in N=2 supergravity and the Gauss-Bonnet term</title>
+      <link>https://dpbutter.github.io/publication/bd-wkl-gb/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/bd-wkl-gb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlocal action for the super-Weyl anomalies: A new representation</title>
+      <link>https://dpbutter.github.io/publication/bk-riegert/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/bk-riegert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformal supergravity in three dimensions: Off-shell actions</title>
+      <link>https://dpbutter.github.io/publication/butter-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/butter-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relating harmonic and projective descriptions of $mathcalN=2$ nonlinear sigma models</title>
+      <link>https://dpbutter.github.io/publication/butter-2012-ta/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/butter-2012-ta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear sigma models with AdS supersymmetry in three dimensions</title>
+      <link>https://dpbutter.github.io/publication/bkt-m-ad-s-3-d/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/bkt-m-ad-s-3-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The linear multiplet and ectoplasm</title>
+      <link>https://dpbutter.github.io/publication/bkn-ecto/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/bkn-ecto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extended supersymmetric sigma models in $AdS_4$ from projective superspace</title>
+      <link>https://dpbutter.github.io/publication/bklt-m-ad-s-4/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/bklt-m-ad-s-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating higher-derivative couplings in N=2 supergravity</title>
+      <link>https://dpbutter.github.io/publication/bk-hd-2/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/bk-hd-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Component reduction in N=2 supergravity: the vector, tensor, and vector-tensor multiplets</title>
+      <link>https://dpbutter.github.io/publication/bn-cr/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/bn-cr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>$mathcal N=2$ conformal superspace in four dimensions</title>
+      <link>https://dpbutter.github.io/publication/butter-2011-sr/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/butter-2011-sr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The structure of N=2 supersymmetric nonlinear sigma models in $AdS_4$</title>
+      <link>https://dpbutter.github.io/publication/bk-sig-ad-s-2/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/bk-sig-ad-s-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A dual formulation of supergravity-matter theories</title>
+      <link>https://dpbutter.github.io/publication/bk-dual/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/bk-dual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N=2 supersymmetric sigma-models in AdS</title>
+      <link>https://dpbutter.github.io/publication/bk-sig-ad-s-1/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/bk-sig-ad-s-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N=2 AdS supergravity and supercurrents</title>
+      <link>https://dpbutter.github.io/publication/butter-2011-ym/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/butter-2011-ym/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New higher-derivative couplings in 4D N = 2 supergravity</title>
+      <link>https://dpbutter.github.io/publication/bk-hd/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/bk-hd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N=2 supergravity and supercurrents</title>
+      <link>https://dpbutter.github.io/publication/butter-2010-sc/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/butter-2010-sc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>$mathcal N=1$ conformal superspace in four dimensions</title>
+      <link>https://dpbutter.github.io/publication/butter-2009-cp/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/butter-2009-cp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Background field formalism for chiral matter and gauge fields conformally coupled to supergravity</title>
+      <link>https://dpbutter.github.io/publication/butter-2009-wy/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/butter-2009-wy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conserved supercurrents and Fayet-Iliopoulos terms in supergravity</title>
+      <link>https://dpbutter.github.io/publication/butter-fi/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/butter-fi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One loop divergences and anomalies from chiral superfields in supergravity</title>
+      <link>https://dpbutter.github.io/publication/butter-one-loop/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/butter-one-loop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Background field formalism for chiral matter and gauge fields conformally coupled to supergravity</title>
+      <link>https://dpbutter.github.io/publication/butter-bff/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/butter-bff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anomaly Structure of Supergravity and Anomaly Cancellation</title>
+      <link>https://dpbutter.github.io/publication/bg-09-anomaly/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/bg-09-anomaly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Axion Mass in Modular Invariant Supergravity</title>
+      <link>https://dpbutter.github.io/publication/bg-05-axion-mass/</link>
+      <pubDate>Tue, 01 Feb 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpbutter.github.io/publication/bg-05-axion-mass/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Daniel Butter</title>
-      <link>https://example.com/about/</link>
+      <link>https://dpbutter.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://dpbutter.github.io/about/</guid>
       <description>About me  I am an American, a Yinzer, a Trekkie, a sci-fi aficionado, and a political junkie. I&amp;rsquo;ve lived in Cambridge, MA (undergrad), Berkeley, CA (grad school), Perth, Australia (postdoc 1), Amsterdam (postdoc 2), and College Station, Texas (postdoc 3).
 At some point, I picked up a wife and a daughter, and they&amp;rsquo;re both pretty swell.
 Research interests I am a theoretical physicist interested in the interplay between mathematical physics, supersymmetry, and string theory.</description>
@@ -18,10 +424,10 @@ Research interests I am a theoretical physicist interested in the interplay betw
     
     <item>
       <title>Daniel Butter: Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>https://dpbutter.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
+      <guid>https://dpbutter.github.io/contact/</guid>
       <description> Personal Email: dbutter@gmail.com Work Email: dbutter@tamu.edu   Physical Coordinates  Mitchell Institute for Fundamental Physics &amp;amp; Astronomy, M509
 Texas A&amp;amp;M University
 College Station, TX 77843
@@ -32,11 +438,11 @@ Bryan, TX 77802
     
     <item>
       <title>Daniel Butter: Publications</title>
-      <link>https://example.com/publications/</link>
+      <link>https://dpbutter.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publications/</guid>
-      <description>Here is a list of my publications and preprints. They can also be found either on inspire-HEP or on the arXiv. Note that in high energy physics, it is conventional to place authors in alphabetical order.
+      <guid>https://dpbutter.github.io/publications/</guid>
+      <description>Here is a list of my publications and preprints. They can also be found either on inspire-HEP, on the arXiv, or via Google Scholar. Note that in high energy physics, it is conventional to place authors in alphabetical order.
 Publications K. Becker and D. Butter, 4D $N=1$ Kaluza-Klein superspace, JHEP 09 (2020) 091. arXiv:2003.01790. K. Becker, M. Becker, D. Butter, W. D. Linch and S. Randall. Five-dimensional Supergravity in N = 1/2 Superspace, JHEP 03 (2020) 098.</description>
     </item>
     
